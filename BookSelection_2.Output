@@ -1,0 +1,80 @@
+Last login: Tue Jul  6 02:18:34 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+/var/folders/57/hkbthshn2g94h6pmh9kcw6qh0000gn/T/spyder-floraseo/run_spyder_e89pdjob.sh ; exit;
+(base) floras-MacBook-Pro:~ floraseo$ /var/folders/57/hkbthshn2g94h6pmh9kcw6qh0000gn/T/spyder-floraseo/run_spyder_e89pdjob.sh ; exit;
+Book identities are: Title,Author,Nationality,Published Year,Length
+Book genres are: Fantasy,SciFi,Romance,Political/Historical,Dytopian
+The number of authors in the list is: 37
+The number of different nationality in the list is: 13
+The length of books are divided into: ['Long', 'Medium', 'Short']
+The range of the published year of the books list is from 1830 to 2020
+['Alexandro Pushkin', 'Andrew Potter ', 'Austin Wright ', 'Berner Werber ', 'Delphine de Vigan', 'Denis Johnson', 'Don Delillo', 'Francoise Sagan', 'Franz Kafka', 'George Orwell ', 'George Perec', 'Hermann Hess', 'J.D Salinger', 'J.R.R.Tolkien', 'Jorges Louis Borges', 'Jose Saramago ', 'Julian Barnes', 'Kaori Ekuni', 'Kenzaburō Ōe', 'Khaled Hosseini', 'Lily Brooks Dalton ', 'Milan Kundera', 'Murakami Haruki', 'Murakami Ryu', 'Oliver Sacks', 'Oscar Wilde', 'Ottessa Moshfegh ', 'Patrick Suskint', 'Philip K Dick ', 'Sayaka Murata', 'Scott Piztgerald', 'Somerest Maugham', 'Stephan Zweig', 'Ted Chiang', 'Thomas Mann', 'Virginia Wolf', 'Yoko Tawada'] ['Afghan-American', 'American', 'Argentine', 'Austrian', 'British', 'Czechoslovak', 'English ', 'French', 'German', 'Irish ', 'Japanese', 'Portuguese', 'Russian'] [1830, 1890, 1903, 1912, 1915, 1918, 1919, 1920, 1924, 1925, 1926, 1927, 1934, 1944, 1945, 1949, 1951, 1954, 1960, 1964, 1965, 1967, 1968, 1969, 1973, 1974, 1975, 1976, 1978, 1979, 1980, 1982, 1984, 1985, 1987, 1988, 1990, 1992, 1993, 1994, 1995, 1997, 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2008, 2009, 2010, 2012, 2013, 2014, 2016, 2017, 2018, 2019, 2020]
+                     Nationality
+Author                          
+Alexandro Pushkin              1
+Andrew Potter                  1
+Austin Wright                  1
+Berner Werber                  7
+Delphine de Vigan              2
+Denis Johnson                  1
+Don Delillo                    4
+Francoise Sagan                1
+Franz Kafka                    4
+George Orwell                  1
+George Perec                   4
+Hermann Hess                   1
+J.D Salinger                   1
+J.R.R.Tolkien                  1
+Jorges Louis Borges            2
+Jose Saramago                  4
+Julian Barnes                  1
+Kaori Ekuni                    4
+Kenzaburō Ōe                   5
+Khaled Hosseini                2
+Lily Brooks Dalton             1
+Milan Kundera                  7
+Murakami Haruki               16
+Murakami Ryu                   3
+Oliver Sacks                   1
+Oscar Wilde                    1
+Ottessa Moshfegh               1
+Patrick Suskint                3
+Philip K Dick                  2
+Sayaka Murata                  1
+Scott Piztgerald               4
+Somerest Maugham               3
+Stephan Zweig                  1
+Ted Chiang                     2
+Thomas Mann                    3
+Virginia Wolf                  1
+Yoko Tawada                    1                  Author
+Nationality            
+Afghan-American       2
+American             19
+Argentine             2
+Austrian              1
+British               2
+Czechoslovak         11
+English               2
+French               17
+German                7
+Irish                 1
+Japanese             30
+Portuguese            4
+Russian               1         Author
+Length        
+Long        34
+Medium      42
+Short       23
+<map object at 0x7f85648fe8d0>
+logout
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+
